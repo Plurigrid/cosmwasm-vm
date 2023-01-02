@@ -1,4 +1,5 @@
 # CosmWasm VM
+![image](https://user-images.githubusercontent.com/1236584/210244814-3fe74217-05c6-4484-be1d-3fa011a455ab.png)
 
 Experimental, minimalistic, `no_std` friendly abstract virtual machine for CosmWasm contracts execution.
 
